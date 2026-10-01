@@ -1,0 +1,6 @@
+{
+  "name": "Laser Tag Duck Hunt & IR Camera Arena",
+  "description": "Retro Duck Hunt arcade shooter powered by webcam IR / Laser Tag blaster detection, online multiplayer duels, and website export.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
